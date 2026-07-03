@@ -58,6 +58,8 @@ pandas
 numpy
 matplotlib
 scikit-learn
+```
+
 ---
 
 ## 📖 Learning Outcomes
